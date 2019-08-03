@@ -1,0 +1,9 @@
+.validation-passed: {
+	box-shadow: 0 1px 0 0 #4CAF50;
+	border-bottom: 1px solid #4CAF50;
+}
+
+.validation-failed: {
+	box-shadow: 0 1px 0 0 #F44336;
+	border-bottom: 1px solid #F44336;
+}
